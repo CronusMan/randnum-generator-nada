@@ -1,0 +1,7 @@
+---
+program: randnum_gen
+inputs:
+  max_num: 100
+  min_num: 1
+expected_outputs:
+  rand_num: 1
