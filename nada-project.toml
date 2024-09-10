@@ -1,0 +1,7 @@
+name = "randnum-generator-nada"
+version = "0.1.0"
+authors = ["CronusMan"]
+
+[[programs]]
+path = "src/randnum_get.py"
+prime_size = 128
